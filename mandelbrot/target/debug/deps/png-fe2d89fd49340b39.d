@@ -1,0 +1,14 @@
+/Users/alexbardi/languageLearning/rust-practice/mandelbrot/target/debug/deps/png-fe2d89fd49340b39.rmeta: /Users/alexbardi/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.7.0/src/lib.rs /Users/alexbardi/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.7.0/src/chunk.rs /Users/alexbardi/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.7.0/src/crc.rs /Users/alexbardi/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.7.0/src/decoder/mod.rs /Users/alexbardi/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.7.0/src/decoder/stream.rs /Users/alexbardi/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.7.0/src/encoder.rs /Users/alexbardi/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.7.0/src/filter.rs /Users/alexbardi/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.7.0/src/traits.rs /Users/alexbardi/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.7.0/src/common.rs /Users/alexbardi/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.7.0/src/utils.rs
+
+/Users/alexbardi/languageLearning/rust-practice/mandelbrot/target/debug/deps/png-fe2d89fd49340b39.d: /Users/alexbardi/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.7.0/src/lib.rs /Users/alexbardi/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.7.0/src/chunk.rs /Users/alexbardi/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.7.0/src/crc.rs /Users/alexbardi/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.7.0/src/decoder/mod.rs /Users/alexbardi/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.7.0/src/decoder/stream.rs /Users/alexbardi/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.7.0/src/encoder.rs /Users/alexbardi/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.7.0/src/filter.rs /Users/alexbardi/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.7.0/src/traits.rs /Users/alexbardi/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.7.0/src/common.rs /Users/alexbardi/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.7.0/src/utils.rs
+
+/Users/alexbardi/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.7.0/src/lib.rs:
+/Users/alexbardi/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.7.0/src/chunk.rs:
+/Users/alexbardi/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.7.0/src/crc.rs:
+/Users/alexbardi/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.7.0/src/decoder/mod.rs:
+/Users/alexbardi/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.7.0/src/decoder/stream.rs:
+/Users/alexbardi/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.7.0/src/encoder.rs:
+/Users/alexbardi/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.7.0/src/filter.rs:
+/Users/alexbardi/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.7.0/src/traits.rs:
+/Users/alexbardi/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.7.0/src/common.rs:
+/Users/alexbardi/.cargo/registry/src/github.com-1ecc6299db9ec823/png-0.7.0/src/utils.rs:
